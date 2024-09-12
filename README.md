@@ -51,7 +51,7 @@ Hris belum dapat digunakan untuk produksi dan sedang dalam proses pengembangan.
 
 ## Cara Install (Menggunakan Docker)
 
-- [X] Clone/Download repository `git clone https://github.com/KejawenLab/Hris.git` dan pindah ke folder `Hris`
+- [X] Clone/Download repository `git clone https://github.com/bbrsoft/Hris.git` dan pindah ke folder `Hris`
 - [X] Build image dengan [`docker-compose`](https://docs.docker.com/compose) dengan menjalankan `docker-compose build && docker-compose up` 
 - [X] Jalankan perintah `docker exec -it hris_db_1 psql -U hris`, bila perlu memasukkan password, masukkan `hris`
 - [X] Jalankan perintah `CREATE EXTENSION IF NOT EXISTS "uuid-ossp";` untuk mengaktifkan ekstensi UUID.
@@ -63,7 +63,7 @@ Hris belum dapat digunakan untuk produksi dan sedang dalam proses pengembangan.
 
 ## Cara Install (Manual)
 
-- [X] Clone/Download repository `git clone https://github.com/KejawenLab/Hris.git` dan pindah ke folder `Hris`
+- [X] Clone/Download repository `git clone https://github.com/bbrsoft/Hris.git` dan pindah ke folder `Hris`
 - [X] Jalankan [Composer](https://getcomposer.org/download) Install/Update `composer update --prefer-dist -vvv`
 - [X] Setup koneksi database pada `.env`
 ```lang=bash
