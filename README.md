@@ -121,12 +121,12 @@ Bila Anda memerlukan profesional support atau ingin mengadakan kerjasama dengan 
 
 ## Preview
 
-![Hris Profil Karyawan Preview](preview/preview.png)
+![Hris Profil Karyawan Preview](preview.png)
 
-![Hris Laporan Absensi Preview](preview/preview2.png)
+![Hris Laporan Absensi Preview](preview2.png)
 
-![Hris Detail Gaji](preview/penggajian3.png)
+![Hris Detail Gaji](penggajian3.png)
 
-![Hris API Preview](preview/api-preview.png)
+![Hris API Preview](api-preview.png)
 
 Butuh lebih banyak screenshot? silahkan cek folder [preview](preview)
